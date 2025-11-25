@@ -1,7 +1,7 @@
 ## 4(b) Dictionary Operations in Python: maximum and minimum value of dictionary.
 
 ## Aim
-
+To create a python program find maximum and minimum value of dictionary.
 ## Algorithm
 1.Start
 
